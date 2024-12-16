@@ -1,5 +1,5 @@
 # Generador de email funcional!
-print('*** BIENVENDIDO AL GENERADOR DE MAIL DE MURDOK!')
+print('*** BIENVENDIDO AL GENERADOR DE MAIL DE Erwin !')
 print()
 nombre = input('Introduzca su nombre: ')
 apellido = input('Introduzca su apellido: ')
